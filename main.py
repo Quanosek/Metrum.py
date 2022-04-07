@@ -1,4 +1,4 @@
-# start 123
+# start
 import discord
 from discord.ext import commands
 from server import Website
